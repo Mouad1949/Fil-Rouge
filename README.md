@@ -73,4 +73,7 @@ UML Complet :
 
 Maquettes Figma : 
 
+Mouad LAALAM — Développeur Fullstack / Chef de projet
+Salma HARDA — Superviseure académique
+
 
