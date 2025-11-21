@@ -69,7 +69,7 @@ Cahier des Charges : https://docs.google.com/document/d/1MoDXe-zYxXWqxii-8DHKQ8x
 
 Jira :https://laalammouad.atlassian.net/jira/software/c/projects/KHAD/boards/34/timeline?atlOrigin=eyJpIjoiMTM3OWYzZjliYjQ2NDFiZDg1YTg4NjUyNDM0ODhkN2QiLCJwIjoiaiJ9
 
-UML Complet :
+UML Complet : https://lucid.app/lucidchart/004ff52b-29a9-4b9f-9f72-ebd913ad98c6/edit?invitationId=inv_1b1b55b0-e248-4fee-ad8b-a1ccae1f10ca&page=0_0#
 
 Maquettes Figma : 
 
